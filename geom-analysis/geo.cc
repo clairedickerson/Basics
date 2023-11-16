@@ -5,9 +5,9 @@
 #include <math.h>
 #include <vector>
 #include <cmath>
-#include "Eigen/Dense"
-#include "Eigen/Eigenvalues"
-#include "Eigen/Core"
+#include "../Eigen/Dense"
+#include "../Eigen/Eigenvalues"
+#include "../Eigen/Core"
 
 typedef Eigen::Matrix<double, Eigen::Dynamic, Eigen::Dynamic, Eigen::RowMajor> Matrix;
 
