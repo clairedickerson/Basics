@@ -1,4 +1,4 @@
-# Geometry Analysis
+## Geometry Analysis
 Basic geometry analysis from .xyz file as input, output in **geo_out.txt**.
 1) Read coordinate data
 2) Calculate bond lengths
